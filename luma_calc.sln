@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luma_calc", "luma_calc\luma_calc.vcxproj", "{01A80161-A482-453D-9DBC-98BB26A821F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Debug|x64.ActiveCfg = Debug|x64
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Debug|x64.Build.0 = Debug|x64
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Debug|x86.Build.0 = Debug|Win32
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Release|x64.ActiveCfg = Release|x64
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Release|x64.Build.0 = Release|x64
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Release|x86.ActiveCfg = Release|Win32
+		{01A80161-A482-453D-9DBC-98BB26A821F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF57364F-4124-4FFB-A5E6-8C25F6EB645C}
+	EndGlobalSection
+EndGlobal
